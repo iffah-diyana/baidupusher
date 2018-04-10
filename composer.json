@@ -1,0 +1,14 @@
+{
+    "name": "IffahDiyana/baidupusher",
+    "description": "Baidu Push Server for Yii",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "IffahDiyana\\baidupusher\\": ""
+        }
+    }
+}
