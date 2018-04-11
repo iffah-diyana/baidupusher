@@ -16,7 +16,7 @@ more information on: [http://push.baidu.com/doc(http://push.baidu.com/doc "chang
 ##Bugs / Feature Requests
 
 * Official Site : [http://push.baidu.com](http://push.baidu.com "Official") 
-* Report Bug : [http://https://github.com/BaiduPush/php-sdk/issues](http://https://github.com/BaiduPush/php-sdk/issues, "Issues")
+* Report Bug : [https://github.com/BaiduPush/php-sdk/issues](http://https://github.com/BaiduPush/php-sdk/issues, "Issues")
 * Feedback Email : <push-support@baidu.com>
 
 ##Installation
