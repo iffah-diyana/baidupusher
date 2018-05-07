@@ -3,6 +3,7 @@
     "description": "Baidu Push Server for Yii",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
+    "license": "MIT",
     "require": {
         "yiisoft/yii2": "*"
     },
